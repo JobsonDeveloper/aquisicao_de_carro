@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://aquisicao-de-carro.vercel.app/)
 
 ### Ferramentas utiliizadas:
